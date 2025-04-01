@@ -1,0 +1,20 @@
+Análisis de Logs - Tue Apr  1 10:39:53 CEST 2025
+----------------------------
+Número de errores: 5
+
+Últimos 5 errores:
+2025-04-01 10:39:53 [ERROR] Usuario:admin1 - Mensaje de prueba para comprobar que funciona el archivo
+2025-04-01 10:39:53 [ERROR] Usuario:admin1 - Mensaje de prueba para comprobar que funciona el archivo
+2025-04-01 10:39:53 [ERROR] Usuario:admin1 - Mensaje de prueba para comprobar que funciona el archivo
+2025-04-01 10:39:53 [ERROR] Usuario:usuarioX - Mensaje de prueba para comprobar que funciona el archivo
+2025-04-01 10:39:53 [ERROR] Usuario:admin1 - Mensaje de prueba para comprobar que funciona el archivo
+
+Mensajes más frecuentes:
+      8 [LOGIN]
+      8 [BACKUP]
+      5 [WARNING]
+      5 [ERROR]
+      4 [INFO]
+
+Usuarios con más actividad:
+     30 -
